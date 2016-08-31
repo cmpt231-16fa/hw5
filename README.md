@@ -1,2 +1,1 @@
-# hw5
-HW5 CMPT231 16FA
+# HW5 [CMPT231 16FA](https://cmpt231-16fa.github.io/)
