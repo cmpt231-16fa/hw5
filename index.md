@@ -14,7 +14,7 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
     You may assume the items are integers between 0 and 99.
   + (c) *(1pt)* What is the **running time** of your algorithm, in terms of the length *n* of the list?
 
-2. *(4 pts)* Illustrate the following sequence of operations on a **binary search tree** (starting from an empty tree):
+2. *(3 pts)* Illustrate the following sequence of operations on a **binary search tree** (starting from an empty tree):
   + `insert( 'D' )`
   + `insert( 'M' )`
   + `insert( 'B' )`
