@@ -28,3 +28,7 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
   + `delete( 'D' )`
   + `insert( 'L' )`
   + `delete( 'G' )`
+
+4. *(4pts)*
+
+5. *(3pts)*
