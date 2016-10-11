@@ -31,6 +31,6 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
 4. **Preorder** traversal of a binary tree of characters yields the following sequence: `M F D H G L K V P N S Q T`
   + (a) *(2pts)* **Draw** the tree.
-  + (b) *(2pts)* Print a postorder traversal.
+  + (b) *(2pts)* Print a **postorder** traversal.
 
 5. *(3pts)*
