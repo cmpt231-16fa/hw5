@@ -8,7 +8,8 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 {% include policies.md %}
 
 ### HW5 (20pts)
-1. (a) *(1pt)* Write (pseudocode) a **class definition** for a node of a doubly-linked list and a class definition for the list as a whole.
+1. Consider a **doubly-linked** list.
+  + (a) *(1pt)* Write (pseudocode) **class definitions** for a single node in the list and for the list as a whole.
   + (b) *(4pts)* Write (pseudocode) a function that deletes **duplicate** items from such a list. <br/>
     E.g., input `[ 7, 1, 4, 7, 3, 4, 7 ]` &rarr; output `[ 7, 1, 4, 3 ]` <br/>
     You may assume the items are integers between 0 and 99.
