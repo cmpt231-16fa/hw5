@@ -34,4 +34,6 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
   + (a) *(2pts)* **Draw** the tree.
   + (b) *(2pts)* Print a **postorder** traversal.
 
-5. *(3pts)*
+5. *(3pts)* Write **pseudocode** for a function which takes a
+  **sorted** array of keys (length known) and returns a
+  **balanced** BST (i.e., of minimal height).
