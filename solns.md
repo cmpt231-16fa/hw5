@@ -87,19 +87,19 @@ class Stack:
 
   Your solution should show the BST after each step, but the final BST is
 
-  ![hw5-3 BST insert/del](img/hw5-3.svg)
+  ![hw5-3 BST insert/del](../img/hw5-3.svg)
 
   The above assumes the convention of delete using the **successor**.
   If using the predecessor, then:
 
-  ![hw5-3 BST ops with pred](img/hw5-3-succ.png)
+  ![hw5-3 BST ops with pred](../img/hw5-3-succ.png)
 
 + 4a *(2pts)* Binary tree from preorder:
 
   Note that sequentially inserting nodes from a preorder traversal
   exactly reproduces the original tree:
 
-  ![hw5-4a BST from preorder](img/hw5-4a.svg)
+  ![hw5-4a BST from preorder](../img/hw5-4a.svg)
 
 + 4b *(2pts)* Postorder traversal:
 
