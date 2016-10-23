@@ -13,7 +13,8 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 + If submitting code, you can ZIP/tar your files together for upload, or just upload them separately. Ensure your code is clear and easy for the TA to read.
 + You may also try using Git to track revisions to your code; tutorials are linked from our course homepage.
 
-### HW5 (20pts)
+### HW5 (20pts) [(solutions)](solns)
+
 1. Consider a **doubly-linked** list.
   + (a) *(1pt)* Write (pseudocode) **class definitions** for a single node in the list and for the list as a whole.
   + (b) *(4pts)* Write (pseudocode) a function that deletes **duplicate** items from such a list. <br/>
